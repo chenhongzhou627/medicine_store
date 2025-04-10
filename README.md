@@ -1,15 +1,6 @@
-## summernote文字欄位插件
-https://github.com/summernote/summernote
-
-## Datatable 安裝
-
-請參考 [Yajra Datatables 官方文件](https://yajrabox.com/docs/laravel-datatables/master/quick-starter)
-## yoeunes/toastr(暫時移除)
-https://github.com/yoeunes/toastr
-
 ## 資料表下載
 
-[點擊這裡下載資料表](https://drive.google.com/file/d/1ngB5VWBfAEpDPLnXOOBvRZTpqDwqC-R1/view?usp=sharing)
+[點擊這裡下載資料表](https://drive.google.com/file/d/1MXW2EhWg_e8KN8mBkpjqLjV-FOcd72nl/view?usp=drive_link)
 
 ## 如何使用
 終端機 輸入
@@ -23,12 +14,6 @@ npm install
 
 
 ## 開啟本地端server
-</br>
-啟用vite(因為使用vite來讀取部分css js 所以需要啟動 Vite 開發伺服器)
-</br>
-->終端機 輸入 npm run dev
-</br>
-</br>
 開啟伺服器
 </br>
 ->終端機 輸入 php artisan serve
